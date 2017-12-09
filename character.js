@@ -77,14 +77,3 @@ while (ADC.isAlive() === true && Support.isAlive() === true) {
 	ADC.printStats();
 	Support.printStats(); 
 }
-
-
-
-
-
-
-
-
-
-
-
